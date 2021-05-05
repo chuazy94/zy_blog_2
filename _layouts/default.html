@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body class="theme-base-0d">
+
+    {% include sidebar.html %}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        {{ content }}
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script src='{{ site.baseurl }}/public/js/script.js'></script>
+
+    
+    <div class="row">
+        <div class="column">
+          <a href="https://www.linkedin.com/in/zhiyuanchua/">
+            <img alt="Linkedin" src="/public/linkedin_icon-icons.com_65929.png" width="70" height="70">
+          </a>
+        </div>
+
+        <div class="column">
+          <a href="https://github.com/chuazy94/">
+            <img alt="Github" src="/public/github-logo_icon-icons.com_73546.png" width="70" height="70">
+          </a>
+        </div>
+
+        <div class="column">
+            <a href="https://twitter.com/chuazyyy/">
+              <img alt="Twitter" src="/public/1491579542-yumminkysocialmedia22_83078.png" width="70" height="70">
+            </a>
+          </div>
+
+          <div class="column">
+              <a href=mailto:{{ site.author.email }} >
+                <img alt="Gmail" src="/public/gmail_14189.png" width="70" height="70">
+              </a>
+            </div>
+      </div>
+
+  </body>
+
+</html>
