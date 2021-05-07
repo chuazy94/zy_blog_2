@@ -16,8 +16,9 @@ $$s_{x,y} \times g_{x,y}$$
 ### Moving
 When moving the ball, the player must decide which of the other 95 zones to move to. Assuming the new zone has coordinates z,w, the new expected threat value will be $$xT_{z,w}$$ at this zone. Here, a transition matrix $$T_{x,y}$$ is introduced.  This transition matrix is derived from past data and describes the payoffs from moving the ball to the new coordinate z,w. In simpler terms, they describe the probability of shifting the ball to this position. Now with this, we can calculate the total payoff for moving the ball but summing it across all zones.
 
-
-$$m_{x,y} \times \sum_{z=1}^{12} \sum_{w=1}^{8}T_{(x,y)\rightarrow (z,w)} \times xT_{z,w}\$$
+$$
+m_{x,y} \times \sum_{z=1}^{12} \sum_{w=1}^{8}T_{(x,y)\rightarrow (z,w)} \times xT_{z,w}\
+$$
 
  Now, to combine both the shooting and movement elements of xT, we introduce 2 more probabilities – $$s_{x,y}$$ which describes the probability of shooting from the location and $$m_{x,y}$$ which is the probability of moving the ball. Combining them together, we get:
 
