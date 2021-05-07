@@ -2,7 +2,7 @@
 title:               DataManiac
 tagline:             'A dump/blog for my thoughts on anything data'
 description:         'Special credits for this Lanyon design goes to <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 ""
+url:                 "https://chuazy94.github.io"
 baseurl:             "zy_blog_2"
 paginate:            5
 permalink:           pretty
