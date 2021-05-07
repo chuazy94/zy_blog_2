@@ -24,6 +24,10 @@ $$
 
  Now, to combine both the shooting and movement elements of xT, we introduce 2 more probabilities – $$s_{x,y}$$ which describes the probability of shooting from the location and $$m_{x,y}$$ which is the probability of moving the ball. Combining them together, we get:
 
- $$xT_{x,y} = (s_{x,y} \times g_{x,y}) + (m_{x,y} \times \sum_{z=1}^{12} \sum_{w=1}^{8}T_{(x,y)\rightarrow (z,w)} \times xT_{z,w})\$$
+ $$
+ \begin{align*}
+  xT_{x,y} = (s_{x,y} \times g_{x,y}) + (m_{x,y} \times \sum_{z=1}^{12} \sum_{w=1}^{8}T_{(x,y)\rightarrow (z,w)} \times xT_{z,w})\
+\end{align*}
+$$
 
 The above formula looks seemingly impossible to solve at first as we do not know what are the values of $$xT$$. Fortunately, there is a way to overcome this by setting $$xT_{x,y}$$ = 0 at an intial position and then solving them iteratively until the values converge.
