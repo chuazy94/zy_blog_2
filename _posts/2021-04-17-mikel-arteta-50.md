@@ -3,7 +3,7 @@ layout: post
 title: The Curious Case of Mikel Arteta
 ---
 <p align="center">
-  <img width="720" height="500" src="../images/arteta_hmm.jpg">
+  <img width="720" height="500" src="{{ site.baseurl }}/images/arteta_hmm.jpg">
 </p>
 
 When Arsenal hosted Liverpool on the 3rd of April 2021 at the Emirates, it would be Mikel Arteta’s 50th game in charge. The jury is still out on Arteta’s suitability for the role, with opinions on whether he is the right man for Arsenal generally split across the fanbase. 
@@ -20,7 +20,7 @@ In my attempt to answer such questions in the midst of the 2nd and 3rd lockdown 
 
 As the most fundamental and abundant action in a football game, passes are a perhaps a great initial way to evaluate the effectiveness of a team’s tactics. This is where passing networks bring in so much value as a simple illustration that can include many levels of dimensionality. This helps unveil crucial information on the organization of players (eg. Are there certain stronger partnerships on the team?) and evaluating player’s performances.
 
-![alt text for screen readers](../images/passing_network_West Brom_vs_Arsenal_2021-01-02.png "Arsenal's passing map, West Brom vs Arsenal, 2021-01-02")
+![alt text for screen readers]({{ site.baseurl }}/images/passing_network_West Brom_vs_Arsenal_2021-01-02.png "Arsenal's passing map, West Brom vs Arsenal, 2021-01-02")
 
 <strong>Football passing networks </strong> are constructed by observing the number of passes made between any 2 players of a team. Let’s look at an example passing network from the West Brom vs Arsenal game (I chose this because it was one of the more memorable Arsenal performances this season) above. In this diagram, the selected team (Arsenal) is attacking from left to right on a pitch bounded between $$[0,100]$$ coordinates on both the x and y axis. Each node corresponds to one of the 11 player’s position on the pitch. This is derived by calculating the median position of each player’s position on the pitch when a successful pass is made. The thickness of the lines (edges) between nodes represents the number of successful passes made between the 2 players. The size of the node itself represents the number of successful passes made by that player. Such a simple graphic can shed light on a team’s tactic and derive valuable insights such as:
 *	<strong>Eigenvalue centrality </strong> – which player or players are crucial for the network. Players with larger nodes are more involved in the teams build up play
@@ -42,7 +42,7 @@ For this, I will have to thank <a href="https://twitter.com/karun1710">Karun Sin
 xT is predominantly made of 2 parts – one is the expected payoff (probability of scoring for simplicity) from shooting from that position while the other is a summation of payoffs of moving the ball to another location on the pitch and subsequently scoring from those positions. xT metric rewards the player for progressing the ball into a more advanced position where there is a higher probability of scoring, whilst penalising him if a pass resulted in a lower probability of scoring. For more details, check out my other [post]({{ site.baseurl }}{% link _posts/2021-04-16-xT-derivation.md %}) here on a bit more detail on xT derivation, and of course Karun's awesome <a href="https://karun.in/blog/expected-threat.html">blogpost.</a> 
 
 <p align="center">
-    <img width="460" height="300" src="../images/xT_rep.png">
+    <img width="460" height="300" src="{{ site.baseurl }}/images/xT_rep.png">
 </p>
 
 I will be incorporating the xT values Karun has kindly provided from the 2017-2018 Premier League season. The results are visualised on a 12 x 8 grid diagram above. This intuitively makes sense as a position closer to the opposition goal should have a higher xT associated. 
@@ -52,7 +52,7 @@ I will be incorporating the xT values Karun has kindly provided from the 2017-20
 
 With the xT values, we are now able to include an additional dimension to the passing network. The total xT generated per player was calculated by summing all successful passes made by that player. This total xT value is represented by the colour of the nodes. The colour scales are weighted from lighter to darkest with increasing xT values. Here we can see how the xT weighted passing network appears for the same game: 
 
-![alt text for screen readers](/images/xT_West Brom_vs_Arsenal_2021-01-02.png "Arsenal's xT passing map, West Brom vs Arsenal, 2021-01-02")
+![alt text for screen readers]({{ site.baseurl }}/images/xT_West Brom_vs_Arsenal_2021-01-02.png "Arsenal's xT passing map, West Brom vs Arsenal, 2021-01-02")
 
  We can see that Saka was the immediate stand out performer despite having less passes than his colleagues. His average position on the pitch was also much more advanced compared to the others. Saka’s constant threat down the right flank this game yielded a goal along with a shout for a Man of the Match performance. We can also see Arsenal's reliance on full backs Kieran Tierney and Hector Bellerin to attack as their positions were more advanced than the 2 midfielders. Tierney was particularly influential on the left flank, scoring a worldie and provided an assist to Alexandre Lacazette from the left flank. In this match, Arsenal's game plan of threats along the flank worked out supremely well as they emerged as 4-0 victors. We can now see the effectiveness of such a passing map to evaluate and analyse a team’s attack. 
 
