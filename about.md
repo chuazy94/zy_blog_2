@@ -13,9 +13,9 @@ This blog was birthed in the Coronavirus pandemic with a mixture of boredom and 
   <img width="225" height="400" src="{{ site.baseurl }}/images/profile_pic.jpg">
 </p>
 
-I moved to London, UK in 2015 to pursue a degree in Chemical Engineering and ended up in a career in data analytics. Currently working as a technology consultant in Deloitte, I have donned various caps in Data, working with multiple client engagements across Public Sector and large Consumer Product space. These roles involved Data engineering, science and visualisations. 
+I moved to London, UK from Singapore in 2015 to pursue a degree in Chemical Engineering and ended up in a career in data analytics. Currently working as a technology consultant in Deloitte, I have donned various caps in Data, working with multiple client engagements across Public Sector and large Consumer Product space. These roles involved Data engineering, science and visualisations. 
 
-I love football (as you would have probably realised by now). Arsenal is my team. Recently, I got into the football analytics space to integrate the 2 things I thoroughly enjoy doing. Please feel free to reach out to me if you have any ideas or want to colloborate on any cool projects! 
+I love football (as you would have probably realised by now) and Arsenal (unfortunately at this point in time) is my team. Recently, I got into the football analytics space to integrate the 2 things I thoroughly enjoy doing. I am really keen to learn new ideas on how we can use Data to better understand the beautiful game! Please feel free to reach out to me if you have any ideas or want to colloborate on any cool projects! 
 
 ## Follow me 
 
