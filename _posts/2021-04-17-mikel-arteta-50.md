@@ -14,7 +14,7 @@ This performance succinctly summarized the kind of season Arsenal has had. It ha
 
 The key question remains – is Arteta the right man for the job? Has he brought back (or is bringing back) an identity to the football club which was once synonymous with attractive attacking football?
 
-In my attempt to answer such questions in the midst of the 2nd and 3rd lockdown here in the UK, I decided to turn to the data to see if they would tell me anything interesting. The data used in the following visualisations were scraped from <a href="https://www.whoscored.com">whoscored.com</a> and plots were visualised using Python. In this initial post, I will be introducing and discussing the use of passing networks to evaluate team performances. Subsequently, in my attempt to dethrone Jamie Carragher and Gary Neville from Sky Sports Monday Night Football, I will utilise my far from professional football knowledge and plots to assess Arteta's performance.
+In my attempt to answer such questions in the midst of the 2nd and 3rd lockdown here in the UK, I decided to turn to the data to see if they would tell me anything interesting. The data used in the following visualisations were scraped from <a href="https://www.whoscored.com">whoscored.com</a> and plots were visualised using Python (you can check out my rather messy code on my Github profile!). In this initial post, I will be introducing and discussing the use of passing networks to evaluate team performances. Subsequently, in my attempt to dethrone Jamie Carragher and Gary Neville from Sky Sports Monday Night Football, I will utilise my far from professional football knowledge and plots to assess Arteta's performance.
 
 ## Passing Networks
 
@@ -62,5 +62,5 @@ With the xT values, we are now able to include an additional dimension to the pa
 
 xT is just one of the many footballing metrics out there being developed. The football analytics space is rapidly growing, with many analytics teams coming up with innovative ways to evaluate players performances, analyse team performances to give their clubs an edge. Other metrics include <a href="https://dtai.cs.kuleuven.be/sports/blog/exploring-how-vaep-values-actions"> Valuing Actions by Estimating Probability (VAEP)</a> framework which involves assigning a value to each on the ball movement and analysing its impact on the outcome of the game. 
 
-Hopefully this post will provide a rather quick insight on the importance of passing maps and how dynamic they get when we add different dimensions like xT into the fray! Stay tuned for more!
+To answer the initial question I posed- much more analysis has to be conducted to grade Arteta's performance but time is running out for him to turn the tide to his favour. He sorely needs something to change and bring in a good string of results to avoid a complete fan revolt come end of season. Hopefully this post will provide a rather quick insight on the importance of passing maps and how dynamic they get when we add different dimensions like xT into the fray! Stay tuned for more!
 
