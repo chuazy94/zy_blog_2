@@ -39,7 +39,11 @@ Expected Goals (xG) is a well-known metric in the footballing community to measu
 
 For this, I will have to thank <a href="https://twitter.com/karun1710">Karun Singh</a>  for conceiving the idea of Expected Threat (xT). xT builds on the pure-shot model of xG to analyse the effectiveness of one’s buildup play. The idea involves breaking down the pitch into a 12 by 8 grid and deriving an xT value in each area. 
 
-xT is predominantly made of 2 parts – one is the expected payoff (probability of scoring for simplicity) from shooting from that position while the other is a summation of payoffs of moving the ball to another location on the pitch and subsequently scoring from those positions. xT metric rewards the player for progressing the ball into a more advanced position where there is a higher probability of scoring, whilst penalising him if a pass resulted in a lower probability of scoring. For more details, check out my other [post]({{ site.baseurl }}{% link _posts/2021-04-16-xT-derivation.md %}) here on a bit more detail on xT derivation, and of course Karun's awesome <a href="https://karun.in/blog/expected-threat.html">blogpost.</a> 
+<p align="center">
+    <img width="460" height="300" src="{{ site.baseurl }}/images/xT_visual.png">
+</p>
+
+xT is predominantly made of 2 parts – one is the expected payoff (probability of scoring for simplicity) from shooting from that position while the other is a summation of payoffs of moving the ball to another location on the pitch and subsequently scoring from those positions. As seen above, at a point $$[70,50]$$, a player has the option to either move the ball (green) or shoot(blue) from that position. xT sums up the total threat made from moving the ball to each of the other 95 grids on the pitch and the probability of scoring from that position (xG). xT metric rewards the player for progressing the ball into a more advanced position where there is a higher probability of scoring, whilst penalising him if a pass resulted in a lower probability of scoring. For more details, check out my other [post]({{ site.baseurl }}{% link _posts/2021-04-16-xT-derivation.md %}) here on a bit more detail on xT derivation, and of course Karun's awesome <a href="https://karun.in/blog/expected-threat.html">blogpost.</a> 
 
 <p align="center">
     <img width="460" height="300" src="{{ site.baseurl }}/images/xT_rep.png">
