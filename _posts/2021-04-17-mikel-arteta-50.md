@@ -51,7 +51,6 @@ xT is predominantly made of 2 parts – one is the expected payoff (probability 
 
 I will be incorporating the xT values Karun has kindly provided from the 2017-2018 Premier League season. The results are visualised on a 12 x 8 grid diagram above. This intuitively makes sense as a position closer to the opposition goal should have a higher xT associated. 
 
-
 ## A new dimension - xT weighted passing networks
 
 With the xT values, we are now able to include an additional dimension to the passing network. The total xT generated per player was calculated by summing all successful passes made by that player. This total xT value is represented by the colour of the nodes. The colour scales are weighted from lighter to darkest with increasing xT values. Here we can see how the xT weighted passing network appears for the same game: 
@@ -62,5 +61,9 @@ With the xT values, we are now able to include an additional dimension to the pa
 
 xT is just one of the many footballing metrics out there being developed. The football analytics space is rapidly growing, with many analytics teams coming up with innovative ways to evaluate players performances, analyse team performances to give their clubs an edge. Other metrics include <a href="https://dtai.cs.kuleuven.be/sports/blog/exploring-how-vaep-values-actions"> Valuing Actions by Estimating Probability (VAEP)</a> framework which involves assigning a value to each on the ball movement and analysing its impact on the outcome of the game. 
 
-To answer the initial question I posed- much more analysis has to be conducted to grade Arteta's performance but time is running out for him to turn the tide to his favour. He sorely needs something to change and bring in a good string of results to avoid a complete fan revolt come end of season. Hopefully this post will provide a rather quick insight on the importance of passing maps and how dynamic they get when we add different dimensions like xT into the fray! Stay tuned for more!
+## In conclusion
+
+To answer the initial question I posed- much more analysis has to be conducted to grade Arteta's performance but time is running out for him to turn the tide to his favour. He sorely needs something to change and bring in a good string of results to avoid a complete fan revolt come end of season. 
+
+Hopefully this post will provide a rather quick insight on the importance of passing maps and how dynamic they get when we add different dimensions like xT into the fray! Stay tuned for more!
 
