@@ -44,6 +44,10 @@ There are a few channels you can reach out to me on:
         </div>
 </div>
 
+## Buy me a beer!
+
+If you really like this content, you can buy me a beer <a href="https://www.buymeacoffee.com/zychua">here</a>!
+
 [comment]: <> [<img width="100" height="100" src="{{ site.baseurl }}/public/linkedin_icon-icons.com_65929.png">](https://www.linkedin.com/in/zhiyuanchua/) 
 [comment]: <> [<img width="100" height="100" src="{{ site.baseurl }}/public/github-logo_icon-icons.com_73546.png">](https://github.com/chuazy94/) 
 [comment]: <> [<img width="100" height="100" src="{{ site.baseurl }}/public/1491579542-yumminkysocialmedia22_83078.png">](https://https://twitter.com/chuazyyy/) 
