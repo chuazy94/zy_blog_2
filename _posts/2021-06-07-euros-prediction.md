@@ -4,7 +4,7 @@ title: Our Euro 2020 Predictions
 ---
 
 <p align="center">
-  <img width="1000" height="562" src="/images/euro_2020.png">
+  <img width="1000" height="562" src="{{ site.baseurl }}/images/euro_2020.png">
 </p>
 
 
@@ -19,10 +19,10 @@ We then analysed the performance of the xG model in relation to the actual resul
 
 <div class="row">
         <div class="column">
-            <img alt="RMSE" src="/images/Euro_2020_xG_RMSE.png" width="520" height="650">
+            <img alt="RMSE" src="{{ site.baseurl }}/images/Euro_2020_xG_RMSE.png" width="520" height="650">
         </div>
         <div class="column">
-            <img alt="xG_over_goals" src="/images/Euro_2020_goals_over_xg.png" width="520" height="650">
+            <img alt="xG_over_goals" src="{{ site.baseurl }}/images/Euro_2020_goals_over_xg.png" width="520" height="650">
         </div>
 </div>
 
@@ -105,7 +105,7 @@ The current holders have to be tipped as outsiders for the title again this year
 
 This is perhaps the biggest fixture of the opening games. The shock inclusion of Benzema may prove costly if squad harmony is disrupted down the line, but there seems to be no issues currently for France. On the other hand, Joachim Low has outstayed his welcome for a couple of years, and his tactical naivety will cost Germany in the group of death. A very much in-form France with a high xG and efficiency in shot conversion should see France dispatch the Germans off in a thoroughly entertaining clash. **France 3-1 Germany**.
 
-![alt text for screen readers](/images/france_vs_germany.png "France vs Germany, the French emerged as 2-0 victors in the 2016 European Tournament")
+![alt text for screen readers]({{ site.baseurl }}/images/france_vs_germany.png "France vs Germany, the French emerged as 2-0 victors in the 2016 European Tournament")
 
 ## Closing words
 
