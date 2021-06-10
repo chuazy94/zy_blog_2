@@ -19,10 +19,10 @@ We then analysed the performance of the xG model in relation to the actual resul
 
 <div class="row">
         <div class="column">
-            <img alt="RMSE" src="{{ site.baseurl }}/images/Euro_2020_xG_RMSE.png" width="300" height="600">
+            <img alt="RMSE" src="{{ site.baseurl }}/images/Euro_2020_xG_RMSE.png" width="400" height="600">
         </div>
         <div class="column">
-            <img alt="xG_over_goals" src="{{ site.baseurl }}/images/Euro_2020_goals_over_xg.png" width="300" height="600">
+            <img alt="xG_over_goals" src="{{ site.baseurl }}/images/Euro_2020_goals_over_xg.png" width="400" height="600">
         </div>
 </div>
 
