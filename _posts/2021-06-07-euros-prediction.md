@@ -97,7 +97,7 @@ Spain may look like a promising team on paper with a high xG but we think they h
 <em>Weighted xG (1.77 - <span style="color:blue"> 2.53</span>) /
 <em>Weighted xGA (0.862 - <span style="color:red">1.08</span>)
 
-The current holders have to be tipped as outsiders for the title again this year, albeit having to come through a tough group first. Hungary, although being the 4th most clinical team, should prove no match for a Portugal side who have a much more superior xG and filled with world class talents. **Hungary 1-3 Portugal**.
+The current holders have to be tipped as outsiders for the title again this year, albeit having to come through a tough group first. Hungary, although being the 4th most clinical team, should prove no match for a Portugal side who have a higher xG and filled with world class talents. **Hungary 1-3 Portugal**.
 
 ### Group F: France vs Germany
 <em>Weighted xG (<span style="color:blue">2.04</span> - 1.72) /
