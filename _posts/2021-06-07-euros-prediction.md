@@ -105,7 +105,9 @@ The current holders have to be tipped as outsiders for the title again this year
 
 This is perhaps the biggest fixture of the opening games. The shock inclusion of Benzema may prove costly if squad harmony is disrupted down the line, but there seems to be no issues currently for France. On the other hand, Joachim Low has outstayed his welcome for a couple of years, and his tactical naivety will cost Germany in the group of death. A very much in-form France with a high xG and efficiency in shot conversion should see France dispatch the Germans off in a thoroughly entertaining clash. **France 3-1 Germany**.
 
-![alt text for screen readers]({{ site.baseurl }}/images/france_vs_germany.png "France vs Germany, the French emerged as 2-0 victors in the 2016 European Tournament")
+<p align="center">
+ ![alt text for screen readers]({{ site.baseurl }}/images/france_vs_germany.png "France vs Germany, the French emerged as 2-0 victors in the 2016 European Tournament")
+</p>
 
 ## Closing words
 
