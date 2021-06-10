@@ -8,7 +8,7 @@ title: Our Euro 2020 Predictions
 </p>
 
 
-In the spirit of the Euro 2020 (or 2021) Championships, Ashley and I decided to whip out our crystal balls to predict some of the results in the first round of fixtures. The objectives are simple - beat <a href="https://www.fifa.com/worldcup/news/south-africa-2010-unlikeliest-star-1275628">Paul the Octopus</a> and also emerge victorious in our respective Fantasy leagues. We have a slight advantage in the form of data (albeit limited) and a cognitive understanding of the game although these predictions will probably not be worth more than the <a href="https://www.huffpost.com/entry/paul-the-octopus-could-be_n_646660">$4.5 Million</a>  Paul was valued at. 
+In the spirit of the Euro 2020 (or 2021) Championships, <a href="https://www.linkedin.com/in/ashley-see-497681112/">Ashley</a> and I decided to whip out our crystal balls to predict some of the results in the first round of fixtures. The objectives are simple - beat <a href="https://www.fifa.com/worldcup/news/south-africa-2010-unlikeliest-star-1275628">Paul the Octopus</a> and also emerge victorious in our respective Fantasy leagues. We have a slight advantage in the form of data (albeit limited) and a cognitive understanding of the game although these predictions will probably not be worth more than the <a href="https://www.huffpost.com/entry/paul-the-octopus-could-be_n_646660">$4.5 Million</a>  Paul was valued at. 
 
 ## Methodology
 
