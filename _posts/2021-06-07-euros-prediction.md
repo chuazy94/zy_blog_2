@@ -12,7 +12,7 @@ In the spirit of the Euro 2020 (or 2021) Championships, Ashley and I decided to 
 
 ## Methodology
 
-Our methodology is very loosely based on analysing the most recent performances of individual teams across the international friendlies, World Cup qualifiers and Nations League competition. Metrics used to analyse performances are Expected Goals (xG) and Expected Goals Against (xGA). xG values were kindly provided by <a href="https://footystats.org/">footystats.org</a>. While xG is used to determine the team's offensive capabilities based on shot quality, xGA is helps to rate their defensive capabilities by considering the opponent's xG (aka the quality of shots conceded). In simple terms, a higher xG relates to a better offensive output while a lower xGA is a stronger defensive display. 
+Our methodology is very loosely based on analysing the most recent performances of individual teams across the international friendlies, World Cup qualifiers and Nations League competition. Metrics used to analyse performances are Expected Goals (xG) and Expected Goals Against (xGA). xG values were kindly provided by <a href="https://footystats.org/">footystats.org</a>. xG is used to determine the team's offensive capabilities based on shot quality. As mentioned in my earlier posts, they are a regression model that measures the quality of a shot based on features such as distance to goal, angle of shot, number of defenders between shots and goal etc. xGA helps to rate their defensive capabilities by considering the opponent's xG (aka the quality of shots conceded). In simple terms, a higher xG relates to a better offensive output while a lower xGA is a stronger defensive display. 
 
 We then analysed the performance of the xG model in relation to the actual result. This helps to identify not only the reliance of the xG model, but more importantly how clinical the teams are in attack. The following were the results we got:
 
@@ -61,7 +61,7 @@ The Red Devils need to have something to show for their golden generation, and t
 <em>Weighted xG (1.58 - <span style="color:blue">1.69</span>) /
 <em>Weighted xGA (<span style="color:red">1.25</span> - 0.993)
 
-North Macedonia, one of the weakest teams in the tournament, could be a surprise package. The graphs indicate a very efficient conversion of chances which included that shock 2-1 victory over the Germans. Their xG are also pretty high (granted they played Liechenstein and Kazkhstan). Austria on the other hand, have displayed a lower ability to convert their chances and lower xG. North Macedonia have lost their previous 2 encounters with the Austrians, but opening matchday fixtures can prove to be tense affairs, where im backing a low-quality game ending in a goalless draw. **Austria 0-0 North Macedonia**.
+North Macedonia, one of the weakest teams in the tournament, could be a surprise package. The graphs indicate a very efficient conversion of chances which included that shock 2-1 victory over the Germans. Their xG are also pretty high (granted they played Liechtenstein and Kazakhstan). Austria on the other hand, have displayed a lower ability to convert their chances and lower xG. North Macedonia have lost their previous 2 encounters with the Austrians, but opening matchday fixtures can prove to be tense affairs, where we are backing a low-quality game ending in a goalless draw. **Austria 0-0 North Macedonia**.
 
 ### Group C: Netherlands vs Ukraine
 <em>Weighted xG (<span style="color:blue">2.87</span> - 1.83) /
@@ -97,7 +97,7 @@ Spain may look like a promising team on paper with a high xG but we think they h
 <em>Weighted xG (1.77 - <span style="color:blue"> 2.53</span>) /
 <em>Weighted xGA (0.862 - <span style="color:red">1.08</span>)
 
-The current holders have to be tipped as outsiders for the title again this year, albeit having to come through a tough group first. Hungary, although being the 4th most clinical team, should prove no match for a Portugal side who have a higher xG and filled with world class talents. **Hungary 1-3 Portugal**.
+The current holders have to be tipped as outsiders for the title again this year, albeit having to come through a tough group first. Hungary, although being the 4th most clinical team, should prove no match for a Portugal side who have a higher xG and are filled with world class talents. **Hungary 1-3 Portugal**.
 
 ### Group F: France vs Germany
 <em>Weighted xG (<span style="color:blue">2.04</span> - 1.72) /
@@ -109,7 +109,7 @@ This is perhaps the biggest fixture of the opening games. The shock inclusion of
   <img src = "{{ site.baseurl }}/images/france_vs_germany.png">
 </p>
 <p align = "center">
-The biggest match of the opening fixture - France vs Germany, the French emerged as 2-0 victors in the 2016 European Tournament.
+The biggest match of the opening fixture - France vs Germany; the French emerged as 2-0 victors in the 2016 European Tournament.
 </p>
 
 ## Closing words
