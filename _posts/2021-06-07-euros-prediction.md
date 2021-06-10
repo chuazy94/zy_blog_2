@@ -26,7 +26,6 @@ We then analysed the performance of the xG model in relation to the actual resul
         </div>
 </div>
 
-</p>
 <p align = "center">
 Root Mean Squared Error vs xG (L) and Actual Goals over xG modelled (R) per team
 </p>
