@@ -18,7 +18,7 @@ The Italians kicked of Euro 2020 in style! Who will be the next round of winners
 <em>Weighted xG (0.923 - <span style="color:blue">1.17</span>) /
 <em>Weighted xGA (<span style="color:red">0.777</span> - 1.74)
 
-Turkey did not have the best game against Italy mustering an xG of only 0.4. They did however show defensive solidarity for the first half. Wales would be a much easier outfit to face as they did not provide much threat in their game against Switzerland. If not for Danny ward's heroics, the results could have been really bad. Although Turkey has a lower xG compared to Wales, they have shown the ability to convert their chances better than the Welsh. We fancy Turkey to edge this encounter. **Turkey 2-1 Wales**.
+Turkey did not have the best game against Italy mustering an xG of only 0.4. They did however show defensive solidarity for the first half. Wales would be a much easier outfit to face as they did not provide much threat in their game against Switzerland. If not for Danny Ward's heroics, the results could have been really bad. Although Turkey has a lower xG compared to Wales, they have shown the ability to convert their chances better than the Welsh. We fancy Turkey to edge this encounter. **Turkey 2-1 Wales**.
 
 ### Group A : Italy vs Switzerland
 <em>Weighted xG (<span style="color:blue">2.30</span> - 2.13) /
