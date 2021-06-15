@@ -5,6 +5,13 @@ title: Our Euro 2020 Predictions Matchday 2
 
 Following on from our relative successful first round of predictions (8 out of 12 outcomes correct with 3 accurate scoreline predictions), we are back with popular demand to predict the next round of fixtures! We will be adopting the same methodology as detailed in our previous [post]({{ site.baseurl }}{% link _posts/2021-06-07-euros-prediction.md %}). 
 
+<p align = "center">
+  <img src = "{{ site.baseurl }}/images/italy_vs_turkey.png">
+</p>
+<p align = "center">
+The Italians kicked of Euro 2020 in style! Who will be the next round of winners and losers in Matchweek 2?
+</p>
+
 ## Our Predictions
 
 ### Group A : Turkey vs Wales
