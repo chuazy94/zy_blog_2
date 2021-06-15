@@ -34,7 +34,7 @@ Despite their shock 1-0 win over the Danes, the Finnish exhibited one of the wor
 
 ### Group B : Denmark vs Belgium
 <em>Weighted xG (<span style="color:blue">1.81</span> - 1.57) /
-<em>Weighted xGA (<span style="color:red">0.937</span> - 0.865)
+<em>Weighted xGA (0.937 - <span style="color:red">0.865</span>)
 
 A tough one to call given what happened in the Finland game must have affected the Danes massively. Both teams have really similar xG and xGA statistics. The Danes would definitely want to come flying out of the blocks after their loss to Finland under such unfortunate circumstances. However, with Belgium still right at the top of the goals over xG chart, we expect the in-form Lukaku to lead the Belgiums to victory. The Belgians know they have to go out and do a job, and we expect a professional performance from the Belgians resulting in a well-deserved win. **Denmark 0-2 Belgium**.
 
