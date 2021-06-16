@@ -50,13 +50,13 @@ Ukraine do not have many goals in them (they are the 2nd worse clinical team), b
 <em>Weighted xG (<span style="color:blue">2.64</span> - 1.35) /
 <em>Weighted xGA (<span style="color:red">0.715</span> - 1.02)
 
-We incorrectly predicted an upset the previous round against the Dutch but it nevertheless was a close game against Ukraine. With a much more superior xG, the Dutch will create lots of chances in the game and would inevitably put some away. However, the question is if they have the mettle to keep the opposition out. We think they just about have too much for Austria in this game. **Netherlands 2-1 Austria**.
+We incorrectly predicted an upset the previous round against the Dutch but it nevertheless was a close game against Ukraine. With a much more superior xG, the Dutch will create lots of chances in the game and would inevitably put some away. However, the question is if they have the mettle to keep the opposition out. We think they just about have too much quality for Austria in this game. **Netherlands 2-1 Austria**.
 
 ### Group D: Croatia vs Czech Republic
 <em>Weighted xG (<span style="color:blue">1.67</span> - 1.56) /
 <em>Weighted xGA (<span style="color:red">0.845</span> - 1.17)
 
-A roughly tough game to call as once again, we found a pair of opposition that have very similar xG and xGA stats. The Czechs showed their experience in their 2-0 victory over the Scots while Croatia, despite losing 1-0, continued to rake in chances with a superior xG against the English. The key to this game will be the midfield battle, and the Czech midfield is not good enough. The Czechs did concede a high xG against the Scots and we believe the clinical Croats will not be too kind. The Czech may nick a goal through a counter or a set piece, but Croatia should still triumph.
+A roughly tough game to call as once again, we found a pair of opposition that have very similar xG and xGA stats. The Czechs showed their experience in their 2-0 victory over the Scots while Croatia, despite losing 1-0, continued to rake in chances with a superior xG against the English. The key to this game will be the midfield battle, and the Czech midfield is not good enough. The Czechs did concede a high xG against the Scots and the clinical Croats will not be too kind. The Czechs may nick a goal through a counter or a set piece, but Croatia should still triumph.
  **Croatia 2-1 Czech Republic**.
 
 ### Group D: England vs Scotland
