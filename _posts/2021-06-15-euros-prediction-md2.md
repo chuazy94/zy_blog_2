@@ -89,3 +89,5 @@ Hungary may prove tough to break down, but France have simply too much talent th
 <em>Weighted xGA (<span style="color:red">0.655</span> - 0.779)
 
 Both teams know that this game could prove crucial in getting through to the next round. Germany had a positive performance against the French despite a 1-0 loss where they generated an xG of 1.32. Portugal had a terrific game against Hungary, mustering a total of 3.08 xG despite only opening the scoring in the 84th minute against the Hungarians. We think Portugal's exciting squad (especially in midfield) would and the German's lack of a world class number 9 will be the deciding factor in this game. **Portugal 2-1 Germany**.
+  
+ All the best and as always,  <a href="https://www.buymeacoffee.com/zychua">beers</a>! are always welcomed!
