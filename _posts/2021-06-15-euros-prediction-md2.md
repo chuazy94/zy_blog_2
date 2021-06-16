@@ -43,9 +43,8 @@ A tough one to call given what happened in the Finland game must have affected t
 <em>Weighted xG (<span style="color:blue">1.63</span> - 1.28) /
 <em>Weighted xGA (1.26 - <span style="color:red">0.931</span>)
 
-Ukraine do not have many goals in them (they are the 2nd worse clinical team), but a solid defensive performance with a few moments of quality up top should helped them edge a narrow victory. 
-(ZY - I think this could be 0-0 with North Macedonia just defending to hang on to 1 point and Ukraine not having much offensive threat)
-**Ukraine 1-0 North Macedonia**.
+Ukraine do not have many goals in them (they are the 2nd worse clinical team), but are solid defensively. North Macedonia will be keen to emerge with a point and which may see them content to sit back and allow Ukraine to attack. This is potentially a game with a few moments of quality up top and we believe that North Macedonia will get away with their first point of the competition. 
+**Ukraine 1-1 North Macedonia**.
 
 ### Group C: Netherlands vs Austria
 <em>Weighted xG (<span style="color:blue">2.64</span> - 1.35) /
@@ -57,23 +56,20 @@ We incorrectly predicted an upset the previous round against the Dutch but it ne
 <em>Weighted xG (<span style="color:blue">1.67</span> - 1.56) /
 <em>Weighted xGA (<span style="color:red">0.845</span> - 1.17)
 
-A roughly tough game to call as once again, we found a pair of opposition that have very similar xG and xGA stats. The Czechs showed their experience in their 2-0 victory over the Scots while Croatia, despite losing 1-0, continued to rake in chances with a superior xG against the English. The key to this game will be the midfield battle, and the Czech midfield is simply not good enough. The Czech may nick a goal through a counter or a set piece, but Croatia should still triumph.
-(ZY - I think this will result more of a draw because of how close these 2 teams are in terms of the xG stat - would say 1-1 between the both of them)
+A roughly tough game to call as once again, we found a pair of opposition that have very similar xG and xGA stats. The Czechs showed their experience in their 2-0 victory over the Scots while Croatia, despite losing 1-0, continued to rake in chances with a superior xG against the English. The key to this game will be the midfield battle, and the Czech midfield is not good enough. The Czechs did concede a high xG against the Scots and we believe the clinical Croats will not be too kind. The Czech may nick a goal through a counter or a set piece, but Croatia should still triumph.
  **Croatia 2-1 Czech Republic**.
 
 ### Group D: England vs Scotland
 <em>Weighted xG (1.25 - <span style="color:blue">1.34</span>) /
 <em>Weighted xGA (<span style="color:red">0.827</span> - 1.18)
 
-A fierce national rivalry which seems lopsided on paper, but could easily descent into a cagey game. England has been struggling to create chances in their most recent games, with their xG gradually dropping in the last 4 games. Scotland will be fired up after their 2-0 lose. We believe that the difference in quality of attackers will be decisive and England will emerge as victors. Once England gets going, we expect the goals to come in quick succession. 
-(ZY - I dont think England have it in them to score 3. Will say 2.)**England 3-0 Scotland**.
+A fierce national rivalry which seems lopsided on paper, but could easily descent into a cagey game. England has been struggling to create chances in their most recent games, with their xG gradually dropping in the last 4 games. Scotland will be fired up after their 2-0 lose. We believe that the difference in quality of attackers will be decisive and England will emerge as victors. Scotland will struggle to create many opportunities and we do not see them finding a way past the English defence. **England 2-0 Scotland**.
 
 ### Group E: Sweden vs Slovakia
 <em>Weighted xG (<span style="color:blue">1.33</span> - 1.11) /
 <em>Weighted xGA (1.63 - <span style="color:red"> 1.35 </span>)
 
-The Slovaks seem to be quite an inconsistent outfit, whilst the Swedes seem to be able to do a job against lesser opposition. It will be a close game but expect the Swedes to prevail. Sweden should edge this out with a slightly stronger weighted xG and xGA.
-(ZY - I feel like this should be 1-0 or 2-1. Gonna be 1 goal dif)
+The Slovaks seem to be quite an inconsistent outfit, whilst the Swedes seem to be able to do a job against lesser opposition. It will be a close game but expect the Swedes to prevail. Sweden should edge this out with a slightly stronger weighted xG and xGA. 
  **Sweden 2-0 Slovakia**.
 
 ### Group E: Spain vs Poland
