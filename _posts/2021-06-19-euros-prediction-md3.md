@@ -14,7 +14,7 @@ Following a not so successful 2nd round (5/12 outcomes predicted correctly and o
 
 ### A New Method - Poisson
 
-Due to the randomness of the beautiful game, it is already a tall order to predict the exact score of the game. A goal in a match does not depend on previous goals or any other factors. With this, we turn to statistics in an attempt to predict the most probable outcome of the game. Fortunately, there is a distribution that follows the nature of this random occuring events and that is the Poisson distribution. In the graph below created by <a href="https://dashee87.github.io/">David Sheehan.</a>, we can clearly see that the goals per game follows a Poisson distribution.  
+Due to the randomness of the beautiful game, it is already a tall order to predict the exact score of the game. A goal in a match does not depend on previous goals or any other factors. With this, we turn to statistics in an attempt to predict the most probable outcome of the game. Fortunately, there is a distribution that follows the nature of this random occuring events and that is the Poisson distribution. In the graph below created by <a href="https://dashee87.github.io/">David Sheehan</a>, we can clearly see that the goals per game follows a Poisson distribution.  
 
 <p align = "center">
   <img src = "{{ site.baseurl }}/images/poisson_david_sheehan.png">
