@@ -268,7 +268,7 @@ Italy have been the standouts of the tournament so far, whilst Wales have been m
   
 The most probable score might be a 1-1 draw but it is most probable for the Swiss to snatch their first 3 points of the campaign.
 
-Turkey were fancied as dark horses but have been extremely underwhelming so far. The Swiss are too having difficulty creating chances, with the Italian defence completely nullifying their threat in the previous matchday. We expect another disappointing performance from the Turks as Switzerland edge out a tense game. **Switzerland 1-0 Turkey***
+Turkey were fancied as dark horses but have been extremely underwhelming so far. The Swiss are too having difficulty creating chances, with the Italian defence completely nullifying their threat in the previous matchday. We expect another disappointing performance from the Turks as Switzerland edge out a tense game. **Switzerland 1-0 Turkey**
 
 ### Group B: Finland vs Belgium (Neutral)
 <em>Weighted xG (0.93 - <span style="color:blue">1.39</span>) /
