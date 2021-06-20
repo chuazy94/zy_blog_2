@@ -2,12 +2,15 @@
 layout: post
 title: Our Euro 2020 Predictions Matchday 3
 ---
-### New method...
+Following a not so successful 2nd round (5/12 outcomes predicted correctly and only 1 exact scoreline), we will be adopting a newer approach to our predictions. We all knew that exact score predictions were going to be very difficult so we are adopting a probability based approach to determine the most likely outcome of the match. Layering this with some of our opinion of the games, we will derive a predicted result.  
 
+### A New Method - Poisson
 
+Due to the randomness of the beautiful game, it is already a tall order to predict the exact score of the game. A goal in a match does not depend on previous goals or any other factors. With this, we turn to statistics in an attempt to predict the most probable outcome of the game. Fortunately, there is a distribution that follows the nature of this random occuring events and that is the Poisson distribution. With this, we are able to convert a single average value into a probability for changeable outcomes. We employed our weighted Expected Goals (xG) as the single average value used in the Poisson Distribution per team and calculated the distribution of goals scored in a game for each respective team. Following which, a score matrix emerges which tells us the probability of goals scored for each respective team. The probabilities are multiplied with each other to create the score matrix and we will be able to identify the "most probable" outcome. However, we should not be distracted by the most probable score because most of the probabilities are really close to each other. What would give us more confidence in are the specific outcomes - Win/Draw/Lose, Team A/B winning by more than 2 goals or if a game is likely to be high scoring.  For more details, please check out this <a href="https://help.smarkets.com/hc/en-gb/articles/115001457989-How-to-calculate-Poisson-distribution-for-football-betting">post</a> from Smarkets! 
 
+As always, there is a huge cavaet when predicting scores like this as it is very dependent on the average value we put into the distribution for each team. The weighted xG is very much a form dependent metric and a team may completely over or underperform their xG values. We also recognised that Home ground advantage plays a very important role in this tournament. Of the 8 games which were played by a team in their Home stadium, there were 4 victories, 3 draws (including the impressive 1-1 draw between Hungary and France) and only 1 loss (Denmark lost 2-1 to Belgium). The weighted xG does not take this into account due to a lack of Home and Away matches data but we will factor this into our final predictions.  
 
-### Group A: Italy vs Wales
+### Group A: Italy vs Wales (Home Advantage)
 <em>Weighted xG (<span style="color:blue">2.10</span> - 1.42) /
 <em>Weighted xGA (<span style="color:red">0.611</span> - 1.86)
 
@@ -133,9 +136,11 @@ title: Our Euro 2020 Predictions Matchday 3
   </tbody>
 </table>
 
-Italy have been the standouts of the tournament so far, whilst Wales have been more resilient than I expected. Wales know they have to keep the scoreline down to boost their chances of going through, and I expect a really defensive performance but Italy still proving too much to handle. Wales would lose the midfield battle, but may throw bodies behind the ball in defensive positions to get as many blocks as possible. **Italy 2-0 Wales**
+The data shows that Italy are clearly the favourites with a win probability of 51.2%. With the Italians cheering them on in Rome, it may look like this is a certain Italian victory.
 
-### Group A: Switzerland vs Turkey
+Italy have been the standouts of the tournament so far, whilst Wales have been more resilient than we expected. Wales know they have to keep the scoreline down to boost their chances of going through, and we expect a really defensive performance but Italy still proving too much to handle. Wales would lose the midfield battle, but may throw bodies behind the ball in defensive positions to get as many blocks as possible. **Italy 2-0 Wales**
+
+### Group A: Switzerland vs Turkey (Neutral)
 <em>Weighted xG (<span style="color:blue">1.79</span> - 1.29) /
 <em>Weighted xGA (<span style="color:red">1.16</span> - 1.85)
 
@@ -260,10 +265,12 @@ Italy have been the standouts of the tournament so far, whilst Wales have been m
     </tr>        
   </tbody>
 </table>
+  
+The most probable score might be a 1-1 draw but it is most probable for the Swiss to snatch their first 3 points of the campaign.
 
-Turkey were fancied as dark horses but have been disappointing so far. I expect another disappointing performance as Switzerland edge out a tense game. **Switzerland 1-0 Turkey**
+Turkey were fancied as dark horses but have been extremely underwhelming so far. The Swiss are too having difficulty creating chances, with the Italian defence completely nullifying their threat in the previous matchday. We expect another disappointing performance from the Turks as Switzerland edge out a tense game. **Switzerland 1-0 Turkey***
 
-### Group B: Finland vs Belgium
+### Group B: Finland vs Belgium (Neutral)
 <em>Weighted xG (0.93 - <span style="color:blue">1.39</span>) /
 <em>Weighted xGA (1.79 - <span style="color:red">1.31</span>)
 
@@ -389,11 +396,13 @@ Turkey were fancied as dark horses but have been disappointing so far. I expect 
   </tbody>
 </table>
 
-Belgium were turgid in the first half against Denmark but proved their quality in the second half. Finland aren't the greatest team in the world, and I expect a Belgian victory even if they do not play to their best. **Finland 0-2 Belgium**
+Belgium are favourites here with 47.3% probability of winning.
+
+Belgium were turgid in the first half against Denmark but proved their quality in the second half. With Kevin de Bruyne back to his best, we can expect Belgium to create a lot of chances. Finland aren't the greatest team and after suffering the 1-0 loss against Russia, there should not be a shock in this game. We expect a Belgian victory even if they do not play to their best and they will collect maximum points in their group. **Finland 0-2 Belgium**
 
 
 
-### Group B: Denmark vs Russia
+### Group B: Denmark vs Russia (Home Advantage)
 <em>Weighted xG (<span style="color:blue">1.95</span> - 1.22) /
 <em>Weighted xGA (<span style="color:red">0.95</span> - 1.17)
 
@@ -519,10 +528,11 @@ Belgium were turgid in the first half against Denmark but proved their quality i
   </tbody>
 </table>
 
-Denmark very nearly shocked Belgium last matchweek, but still showed a fantastic team display and were simply outclassed in the second half. They know that a huge margin of victory can boost their chances of qualifying, so would go out to dominate the game. The russians may be happy to sit back and without Eriksen, would the Danes have enough creativity to break down the Russians? I believe the Danes have enough firepower and with an attacking mindset from the start, wear down the Russians over the course of 90 mins. **Denmark 3-0 Russia**
+Similar to the Switzerland-Turkey game, the most probable outcome is a 1-1 draw but Denmark are favourites here due to the number of chances they created. In the past 2 games against Finland and Belgium, they registered an xG greater than 2. In their final group game back at home in Copenhagen, Denmark will be determined to win their first game of the tournament in front of their fans.  
 
+Denmark very nearly shocked Belgium last matchweek, but still showed a fantastic team display despite being outclassed in the second half. They know that a huge margin of victory can boost their chances of qualifying, so would go out to dominate the game. The Russians may be happy to sit back and without Eriksen, would the Danes have enough creativity to break down the Russians? We believe the Danes have enough firepower and with an attacking mindset from the start, wear down the Russians over the course of 90 mins. **Denmark 3-1 Russia**
 
-### Group C: Ukraine vs Austria
+### Group C: Ukraine vs Austria (Neutral)
 <em>Weighted xG (<span style="color:blue">1.70</span> - 1.22) /
 <em>Weighted xGA (1.42 - <span style="color:red">1.13</span>)
 
@@ -648,10 +658,11 @@ Denmark very nearly shocked Belgium last matchweek, but still showed a fantastic
   </tbody>
 </table>
 
+Ukraine appear to be favourites according to the score matrix and this is due the 4 goals they have already scored this campaign (only Italy, Netherlands and Belgium have scored more). 
 
-The 23rd and 24th ranked teams in the world face off, with both teams on 3 points going into the game. Arnautovic's return would be a welcome boost for Austria, but there seems to be little to separate the sides, with talents across the pitch on both teams. I'm going to go with a draw as nothing may split the teams. **Ukraine 1-1 Austria**
+The 23rd and 24th ranked teams in the world face off, with both teams on 3 points going into the game. Arnautovic's return would be a welcome boost for Austria, but there seems to be little to separate the sides, with talents across the pitch on both teams. We are going to go with a draw as nothing may split the teams. Both teams might be content with a point as 4 points would be enough to guarantee them a place in the Round of 16. **Ukraine 1-1 Austria**
 
-### Group C: Netherlands vs North Macedonia
+### Group C: Netherlands vs North Macedonia (Home Advantage)
 <em>Weighted xG (<span style="color:blue">2.46</span> - 1.30) /
 <em>Weighted xGA (<span style="color:red">0.63</span> - 1.31)
 
@@ -777,9 +788,11 @@ The 23rd and 24th ranked teams in the world face off, with both teams on 3 point
   </tbody>
 </table>
 
-The Netherlands have already topped their group and I expect a rotated squad, but still proving enough quality to dismantled an already eliminated North Macedonian side. **Netherlands 2-0 North Macedonia**
+Netherlands are clear favourites here with an overwhelming 59% probability of winning. The most probable scoreline is 2-1 win but the 37.8% probability of a 2 or greater goal margin for Netherlands is one of the highest amongst the fixtures here. This is also aided with their fans cheering them on in their final group game.
 
-### Group D: England vs Czech Republic
+The Netherlands have already topped their group and we expect a rotated squad, but still proving enough quality to dismantled an already eliminated North Macedonian side. We will be going for a Netherlands win with 2 goal margin, but could potentially be more. **Netherlands 2-0 North Macedonia**
+
+### Group D: England vs Czech Republic (Home Advantage)
 <em>Weighted xG (1.11 - <span style="color:blue">1.49</span>) /
 <em>Weighted xGA (<span style="color:red">0.85</span> - 1.22)
 
@@ -904,10 +917,12 @@ The Netherlands have already topped their group and I expect a rotated squad, bu
     </tr>        
   </tbody>
 </table>
+  
+The score matrix put the Czechs as favourites here to beat England at 40.9%. They are however playing at Wembley which could potentially tip the scale to the English.
 
-The English were disappointing against Scotland, with poor performances by many players and showing little signs of creativity. Southgate's tactical decisions and substitions were really disappointing, and we fancy the Czechs to take the game to the English and shock Wembley with a victory. **England 0-2 Czech Republic**
+The English were disappointing against Scotland, with poor performances by many players and showing little signs of creativity. Southgate's tactical decisions and substitions were questionable. Although expectations will be high for the English (and pressure will be high on Southgate) to put in a good shift against the Czechs, the Czechs are no pushover. They have demonstrated ability to defend well and convert their chances. England will dominate the game with most of the possession, but we fancy the Czechs to take the game to the English and shock Wembley with a victory. **England 1-2 Czech Republic**
 
-### Group D: Scotland vs Croatia
+### Group D: Scotland vs Croatia (Home Advantage)
 <em>Weighted xG (1.11 - <span style="color:blue">1.49</span>) /
 <em>Weighted xGA (1.33 - <span style="color:red">0.97</span>)
 
@@ -1033,9 +1048,11 @@ The English were disappointing against Scotland, with poor performances by many 
   </tbody>
 </table>
 
-Scotland dominated the game against England and will feel hard done to have not come away with more, whilst Croatia disappointed against the Czechs. Tierney's return to the Scottish side proved important as he made plenty of offensive and defensive runs, whilst Gilmour was outstanding throughout the game. Croatia may have the better midfield, but Scotttish tenacity and heart may see them overwhelm the Croats, especially if they're buoyed on by a raucous Hampden Park. We are tipping a shock and narrow Scottish victory. **Scotland 1-2 Croatia**
+Croatia are favourites in this game with a 45.61% probability of winning. Scotland have an advantage playing at home at Hampden Park.
 
-### Group E: Sweden vs Poland
+Scotland dominated the game against England and will feel hard done to have not come away with more, whilst Croatia disappointed against the Czechs. Tierney's return to the Scottish side proved important as he made plenty of offensive and defensive runs, whilst Gilmour was outstanding throughout the game. Croatia may have the better midfield, but Scotttish tenacity and heart may see them overwhelm the Croats, especially if they're buoyed on by a raucous Hampden Park. We are tipping the Scots to finally break their duct and emerge with a shock and narrow victory. **Scotland 2-1 Croatia**
+
+### Group E: Sweden vs Poland (Neutral)
 <em>Weighted xG (<span style="color:blue">1.40</span> - 1.32) /
 <em>Weighted xGA (<span style="color:red">1.55</span> - 1.59)
 
@@ -1161,9 +1178,11 @@ Scotland dominated the game against England and will feel hard done to have not 
   </tbody>
 </table>
 
-The Swedes may feel a tad lucky to have won their previous game, and may come into this game a little cautious, knowing that every point may be crucial to them. It may prove to be a cagey affair with plenty of half-chances for both sides, and we are predicting a draw. **Sweden 1-1 Poland**
+The score matrix puts the Swedes as slight favourites but it looks like a really even game.
 
-### Group E: Spain vs Slovakia
+The Swedes may feel a tad lucky to have won their previous game, and may come into this game a little cautious, knowing that every point may be crucial to them. They have shown an ability to defend really well. The Poles should be buoyed by their 1-1 draw against the Spanish. It may prove to be a cagey affair with plenty of half-chances for both sides, and we are predicting a draw. **Sweden 1-1 Poland**
+
+### Group E: Spain vs Slovakia (Home Advantage)
 <em>Weighted xG (<span style="color:blue">2.69</span> - 1.11) /
 <em>Weighted xGA (<span style="color:red">0.98</span> - 1.43)
 
@@ -1289,9 +1308,11 @@ The Swedes may feel a tad lucky to have won their previous game, and may come in
   </tbody>
 </table>
 
+The score matrix puts the Spaniards as overwhelming favourites with a 65% probability to win! We know that they can create chances with an xG of 2.89 against Sweden and 3.17 against Poland. However, their problem has been the inability to convert in front of goal. They will be cheered on by their increasingly frustrated fans in Seville.
+
 The Spaniards know how crucial a victory in this game will be, and the margin of victory may matter as well after a disappointing and wasteful performance against Poland. The Spaniards need to take the chances they create, especially against a resolute Slovak defence. We have confidence that despite misfirings in the past, the Spaniards will have the goods to show for when it matters in this game. **Spain 2-0 Slovakia**
 
-### Group F: Germany vs Hungary
+### Group F: Germany vs Hungary (Home Advantage)
 <em>Weighted xG (<span style="color:blue">1.83</span> - 1.06) /
 <em>Weighted xGA (<span style="color:red">0.94</span> - 1.88)
 
@@ -1417,9 +1438,11 @@ The Spaniards know how crucial a victory in this game will be, and the margin of
   </tbody>
 </table>
 
-Hungary's resilience were really impressive, but Germany's dominance against Portugal was a sight to behold. Expect Hungary to sit deep and aim to hit on the counter like they did against France, but if Germany can exploit the widths and provide high quality deliveries like they did against Portugal, it would be a totally one-sided display. **Germany 4-0 Hungary**
+Germany are favourites in this game with at 54.19% probability to win but we are also looking at a high probability of a big margin of victory.
 
-### Group F: Portugal vs France
+Following what was perhaps the performance of the matchweek, Germany look to have found their match winning formula. Hungary's resilience were really impressive, but Germany's dominance against Portugal was a sight to behold. Expect Hungary to sit deep and aim to hit on the counter like they did against France, but if Germany can exploit the widths and provide high quality deliveries like they did against Portugal, it would be a totally one-sided display. **Germany 4-0 Hungary**
+
+### Group F: Portugal vs France (Neutral)
 <em>Weighted xG (<span style="color:blue">2.42</span> - 1.71) /
 <em>Weighted xGA (1.28 - <span style="color:red">0.87</span>)
 
@@ -1546,4 +1569,6 @@ Hungary's resilience were really impressive, but Germany's dominance against Por
   </tbody>
 </table>
 
-France were not fantastic against Hungary, spurning a couple of chances but also not creating as many chances as expected. Portugal always seem to score but their defensive frailties against Germanay must be worrying for Fernando Santos. I expect Portugal to carve out enough opportunities to score, whilst France would have to dominate the midfield and have enough successful take-ons to trouble the Portuguese. If France's attack does not gel more by the time this game comes around, I have a sneaky feeling that France would rue missed chances and get outscored by Portugal. **Portugal 3-2 France** 
+The stats put the Portugese as favourites for this game and this is simply down to the lack of chances created by France.
+
+France were not fantastic against Hungary, spurning a couple of chances but also not creating as many chances as expected. Portugal always seem to score but their defensive frailties against Germany must be worrying for Fernando Santos. We expect Portugal to carve out enough opportunities to score, whilst France would have to dominate the midfield and have enough successful take-ons to trouble the Portuguese. If France's attack does not gel more by the time this game comes around, we have a sneaky feeling that France would rue missed chances and get outscored by Portugal. This should be a hugely entertaining match with everything to play for in this group. **Portugal 3-2 France** 
