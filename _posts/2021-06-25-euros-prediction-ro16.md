@@ -3,6 +3,13 @@ layout: post
 title: Our Euro 2020 Predictions Round of 16
 ---
 
+<p align = "center">
+  <img src = "{{ site.baseurl }}/images/euro2020-ro16.png">
+</p>
+<p align = "center">
+Knockout football promises to be the most gripping, exciting stages of the tournament. Expect drama, jubilation and tears as we enter the heartbreaking part of the tournament where there can only be winners or losers. (Photo credits to The Ringer)
+</p>
+
 Our Round of 16 predictions will follow the same methodology we adopted in the last round of fixtures of the group stages.
 
 ### RO16 Match 1: Wales vs Denmark
@@ -656,7 +663,7 @@ Fernando Santos' team relies on defensive solidarity and hitting teams on the co
 
 Spain are favourites in this clash thanks to their 5-0 demolition of Slovakia substantially boosting their xG. The most probable score is a 2-1 win for Spain. Gerald's model puts Spain as 2-0 winners and a whopping 70% chance of winning.
 
-The Croats have only really come to life in their last game, as did Spain. Spain were excellent against Slovakia and dispatched their chances but it was mainly due to the horrendous defending from the Slovaks. They will not create as many chances against opposition with good control of midfield, and we don't back them to be clinical enough. This game may go the distance and we are tipping a Croatia win on penalties. **Croatia 1-1 Spain (Croatia to progress on Penalties)** (Spain to win?)
+The Croats have only really come to life in their last game, as did Spain. Spain were excellent against Slovakia and dispatched their chances but it was mainly due to the horrendous defending from the Slovaks. They will not create as many chances against opposition with a good control of midfield. This game may go the distance (potentially extra time) but we are tipping Spain to edge this cagey affair. **Croatia 1-2 Spain**
 
 ### RO16 Match 6: France vs Switzerland (Neutral Ground)
 <em>Weighted xG (1.58 - <span style="color:blue">2.00</span>) /
@@ -786,7 +793,7 @@ The Croats have only really come to life in their last game, as did Spain. Spain
 
 Another strange one where the score matrix puts the Swiss as favourites against the world champions, and a most probable score of 2-1. Gerald's model puts the French as favourites at 44%, althogh the most probable score will be a 1-1 draw. This is mainly due to the French struggling to create high quality chances in their group stages. Having only scored 4 (1 own goal and 1 penalty), they have been outperformed by the Swiss in their xG performance.
 
-The French have struggled for goals in the groups despite creating decent chances, but were unlucky to be placed in such a tough group and still came out on top. We fancy things to click for them in the knockouts and blow the Swiss away. **France 2-0 Switzerland** (I changed to 2)
+The French have struggled for goals in the groups despite creating decent chances, but were unlucky to be placed in such a tough group and still came out on top. We fancy things to click for them in the knockouts and emerge with a comfortable victory. **France 2-0 Switzerland** 
 
 ### RO16 Match 7: England vs Germany (Home Advantage)
 <em>Weighted xG (1.16 - <span style="color:blue">2.03</span>) /
@@ -1046,5 +1053,5 @@ England have been lacking creativity and cohesiveness in attack, but surely ther
 
 Score matrix puts the most probable score at 1-1, with quite an even game between Sweden and Ukraine. The Swedes are edging it in terms of probability of winning at 38%. Gerald's model is similar with a most probable score at 1-1 and Swedes winning with at 42.5% probability.
 
-The Swedes have shown fantastic game management this tournament, whilst Ukraine have disappointed me slightly in terms of results when their squad should have more to show for. The Swedes will manage the game well and strike at the right times to strike down Ukraine. **Sweden 2-1 Ukraine** (Change to a draw?)
+The Swedes have shown fantastic game management this tournament, whilst Ukraine have disappointed us slightly in terms of results when their squad should have more to show for. This will be a closely competitive match between teams that do not create too many opportunities and we expect this to be decided by a penalty shootout. **Sweden 1-1 Ukraine (Sweden to win on penalties)** 
 
