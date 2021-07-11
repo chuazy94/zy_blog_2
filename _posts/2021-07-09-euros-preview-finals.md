@@ -10,13 +10,13 @@ title: The unofficial Euro 2020 finals preview - Italy vs England
 The stage is set in Wembley. Will it come home or will it go to Rome? (Photo credits to foottheball.com)
 </p>
 
-The time has come for the most anticipated football match of the year - the European championships finals! Many (including myself) expected the powerhouses France, Belgium or Portugal to make it to the final. Instead, it is the dark horses Italy and England who have been excellent in the tournament that will battle it out for the most prestigious European football crown. Will England finally end 30... wait no 55 years of hurt or will the Azzurris add to their repertoire of international trophies?
+The time has come for the most anticipated football match of the year - the European championships finals! Many (including myself) expected the powerhouses France, Belgium or Portugal to make it to the final. Instead, it is the dark horses Italy and England, who have both been excellent in the tournament, that will battle it out for the most prestigious European football crown. Will England finally end 30... wait no 55 years of hurt or will the Azzurris add to their repertoire of international trophies?
 
 This will be a fun, semi-serious preview of these 2 impressive teams that have defied expectations to make it this far into the tournament. We look at what made them so successful offensively (22 goals scored) in this tournament and more importantly in title wining sides, defensively (only 4 goals conceded)!
 
 ## England
 
-In my previous post, I described the importance of passing networks. In addition, I have layered on expected threat (xT) to emphasise valuable passes that improve the team's chance of scoring. In summary, the passing networks below will show the important players (represented by the larger nodes), important passing lanes (represented by the thicker edges between 2 nodes) and the total contribution of the player's passes to the team's attacking threat of the game. Check out the post here for more details! The graphs below show England's xT passing network in their 6 Euro 2020 fixtures (Apologies if they are a little small, you can open them up in a new tab to see a clearer image). 
+In my previous post, I described the importance of passing networks. In addition, I have layered on expected threat (xT) to emphasise valuable passes that improve the team's chance of scoring. In summary, the passing networks below will show the important players (represented by the larger nodes), important passing lanes (represented by the thicker edges between 2 nodes) and the total contribution of the player's passes to the team's attacking threat of the game. Check out the [post]({{ site.baseurl }}{% link _posts/2021-04-17-mikel-arteta-50.md %}) here for more details! The graphs below show England's xT passing network in their 6 Euro 2020 fixtures (Apologies if they are a little small, you can open them up in a new tab to see a clearer image). 
 
 <div class="row">
         <div class="column">
@@ -55,9 +55,7 @@ In my previous post, I described the importance of passing networks. In addition
 
 ### Individual talents up front
 
-The Rice and Phillips is definitely one of the core reasons for England's solid defensive displays. This of course has sacrificed an additional Central Midfielder who can provide a more creative outlet in attack. Personally, I think this works out well for England because of the array of individual attacking talents they have up front. England's front 4 is usually made up of Mount, Kane, Sterling, Grealish, Saka, Foden and Sancho (the last 4 usually being rotated). Every single one of them has top class technical abilities to dribble, shoot and pass the ball. 
-
-Based on the maps, you can see that their positions can be rather dynamic. Kane (the traditional striker) often sits behind Mount (the traditional attacking midfielder) and their roles interchange. Both wingers are completely comfortable playing on either wings which is very beneficial for England when they are struggling to find ways past a resolute defence. England are able to rely on individual moments of brilliance to unlock stubborn defences. This could partly be the reason why England games can be a bore to watch with a lot of sidewards passing. They are constantly experimenting, moving the ball to the wings before someone pops up to provide this long awaited moment of brilliance.  With Raheem Sterling being really inspired, Harry Kane finally finding his shooting boots now, the front 4 can be confident of creating many more opportunities in this game
+The Rice and Phillips is definitely one of the core reasons for England's solid defensive displays. This of course has sacrificed an additional Central Midfielder who can provide a more creative outlet in attack. Personally, I think this works out well for England because of the array of individual attacking talents they have up front. England's front 4 is usually made up of Mount, Kane, Sterling, Grealish, Saka, Foden and Sancho (the last 4 usually being rotated). Every single one of them has top class technical abilities to dribble, shoot and pass the ball. Based on the maps as well, you can see that their positions can be rather dynamic. Kane (the traditional striker) often sits behind Mount (the traditional attacking midfielder) and their roles can interchange. Both wingers are completely comfortable playing on either wings which is very beneficial for England when they are struggling to find ways past a defence. England are able to rely on individual moments of brilliance to unlock stubborn defences. This also contributes to why England games can be a bore to watch with a lot of sidewards passing. They are constantly experimenting, moving the ball to the wings before someone pops up to provide this long awaited moment of brilliance.  With Raheem Sterling being really inspired, Harry Kane finally finding his shooting boots now, the front 4 can be confident of creating many more opportunities in this game
 
 ### The game against Germany
 
@@ -110,11 +108,26 @@ Italy have been one of the most exciting teams to watch this tournament and cred
 
 Very similar to the English, the Italians have such a wide variety of talent up front. Insigne, Chiesa and Immobile are the regular starters but Berardi, Bernardeschi will provide some serious competition to the forwards. Insigne in particular has been pivotal to the success of the Italians. He has consistently been the focal point of their attack (especially on the left when Spinazolla was playing) with an exceptional ability to hit the long shot and dribble in tight spaces. In the maps above you can see that Insigne usually has the biggest and darkest node amongst the front 3 players as he often drops back into midfield to add an extra man and contribute to the build up.
 
+## Shots distribution
 
+<div class="row">
+        <div class="column">
+            <img alt="England shot distribution" src="{{ site.baseurl }}/images/England_shot_dist.png" width="500" height="350">
+        </div>
+        <div class="column">
+            <img alt="Italy shot distribution" src="{{ site.baseurl }}/images/Italy_shot_dist.png" width="500" height="350">
+        </div>
+</div>
+
+Just another plot for fun but really intesting to see the shots distribution between Italy and England. An obvious observation is that the Italians tend to take more shots from outside the box, and this has already yielded them 3 goals. The English do tend to build patiently around the penalty box and release the trigger when they are in a much better scoring position. The Italians have been on par with the expected goals - scoring 12 goals with a xG of 11.81 while the English have outperformed their xG - scoring 10 with an xG of 8.56.
+
+I strongly suggest checking out Gerald's plots <a href="https://twitter.com/dlareg49/status/1414228134543564806">here</a> as he details out the posession sequences which led to the different shots. Possession sequences consist of passes, dribble/carry and ultimately the shot. They provide insight into how each team attempts to build their attack for example, England will tend to have longer sequences before leading to the shot due to the meticulous style of play, while Italy will have shorter sequences with their rapid, counter attacking style of football.
 
 ## Our predictions
 
-
+### England vs Italy
+<em>Weighted xG (1.60 - <span style="color:blue">1.81</span>) /
+<em>Weighted xGA (<span style="color:red">0.747</span> - 1.31)
 
 <table>
   <thead>
@@ -237,3 +250,10 @@ Very similar to the English, the Italians have such a wide variety of talent up 
     </tr>        
   </tbody>
 </table>
+
+
+This will be a really difficult match to call with so much as stake. England will feel very encouraged that they have progressed one step further from their Semi-Final exit against Croatia in the World Cup. They will also be buoyed on by the English fans at Wembley. However you cannot write Italy off at all as they have been really impressive. We predict that a draw would be a highest possibility after 90 minutes and after that - well its almost impossible to tell! **England 1-1 Italy**
+
+## Closing words
+
+This has been an absolutely entertaining and joyous tournament especially being in here in London. I have been lucky to catch the England vs Czech Republic game at Wembley and some others whilst pubs have slowly reopened. Writing up our predictions has definitely made watching the games so much more interesting and exciting. I hope you guys have found the predictions really useful (whether it is to place bets or to see if I have beaten Paul) or at least a pleasant read!
