@@ -256,4 +256,4 @@ This will be a really difficult match to call with so much as stake. England wil
 
 ## Closing words
 
-This has been an absolutely entertaining and joyous tournament especially being in here in London. I have been lucky to catch the England vs Czech Republic game at Wembley and some others whilst pubs have slowly reopened. Writing up our predictions has definitely made watching the games so much more interesting and exciting. I hope you guys have found the predictions really useful (whether it is to place bets or to see if I have beaten Paul) or at least a pleasant read!
+This has been an absolutely entertaining and joyous tournament especially me being here in London. I have been lucky to catch the England vs Czech Republic game at Wembley and some others whilst pubs have slowly reopened to soak up the electric Euros atmosphere. Writing up our predictions has definitely made watching the games so much more interesting and exciting. I hope you guys have found the predictions really useful (whether it is to place bets or to see if I have beaten Paul) or at least a pleasant read!
