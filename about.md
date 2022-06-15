@@ -5,7 +5,7 @@ title: About
 
 Welcome to my blog! 
 
-This blog was birthed in the Coronavirus pandemic with a mixture of boredom and inspiration. It will be a dump for my thoughts on anything related to data, but will be mostly used for football analytics!
+This blog was birthed in the Coronavirus pandemic with a mixture of boredom and inspiration. It will be a dump for my thoughts on anything related to data, but will be mostly used for football analytics! Sometimes I post my drone videos here if I feel like flying!
 
 ## About myself - Zhi Yuan Chua
 
