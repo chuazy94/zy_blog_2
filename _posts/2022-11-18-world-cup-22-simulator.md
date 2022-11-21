@@ -74,7 +74,7 @@ The xG prediction model was built using the statsmodel python package which alre
 
 <div class="row">
         <div class="column">
-            <img alt="Gee Model Results" src="{{ site.baseurl }}/images/GEE_Model_results.png" width="500" height="260">
+            <img alt="Gee Model Results" src="{{ site.baseurl }}/images/GEE_Model_results.PNG" width="500" height="260">
         </div>
 </div>
 
@@ -83,7 +83,7 @@ The model ran with 7 iterations with a cluster size of 2 (team and oppposition).
 
 <div class="row">
         <div class="column">
-            <img alt="xG predictor validation" src="{{ site.baseurl }}/images/xg_validation.png" width="500" height="200">
+            <img alt="xG predictor validation" src="{{ site.baseurl }}/images/xg_validation.PNG" width="500" height="200">
         </div>
 </div>
 
