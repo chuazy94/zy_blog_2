@@ -4,7 +4,7 @@ title: Tis the season to find out who will be jolly
 ---
 
 <p align="center">
-  <img width="750" height="500" src="/images/world-cup-guide-to-the-groups-snow.jpg">
+  <img width="750" height="500" src="{{ site.baseurl }}/images/world-cup-guide-to-the-groups-snow.jpg">
 </p>
 <p align = "center">
 All credits of this image goes to <a href="https://theanalyst.com/eu/2022/11/world-cup-2022-guide-to-each-group/">The Analyst.</a> 
