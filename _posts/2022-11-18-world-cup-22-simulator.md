@@ -175,7 +175,7 @@ The most anticipated part of my post (probably) and here it is! These are the re
         </div>
 </div>
 
-More detailed head to head results can be found on my Jupyter Notebook here.
+More detailed head to head results can be found on my <a href="[https://github.com/chuazy94/Projects/blob/master/xG_GEE_model_world_cup_22.ipynb/">Juypter Notebook.</a>
 
 #### Knockout stage
 And here are the results from the knockout stage
@@ -189,7 +189,6 @@ And here are the results from the knockout stage
 It looks like Neymar will lead Selecao to the first World Cup in 20 years! It will not be coming home for England as they look to be crashing out against France in the quarter finals. We will not be seeing a hotely anticipated Messi vs Ronaldo final as both will lose their respective games in the Semi Finals.
 
 ### Observations
-
 Some key observations during the analysis of the results:
 
 - Common scorelines in the group stage of 1-0 and 1-1. An explanation would be the proximity of probabilities in the 1 goal region. An interesting result is the England group where it appears that nearly all games will end with a 1-1 draw, with England and Iran qualifying to the next round.
