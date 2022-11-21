@@ -175,7 +175,7 @@ The most anticipated part of my post (probably) and here it is! These are the re
         </div>
 </div>
 
-More detailed head to head results can be found on my <a href="https://github.com/chuazy94/Projects/blob/master/xG_GEE_model_world_cup_22.ipynb/">Juypter Notebook. Section 3.3 will show the group stage results while the results section at the end shows the entire tournament result.</a>
+More detailed head to head results can be found on my <a href="https://github.com/chuazy94/Projects/blob/master/xG_GEE_model_world_cup_22.ipynb/">Juypter Notebook.</a> Section 3.3 will show the group stage results while the results section at the end shows the entire tournament result.
 
 #### Knockout stage
 And here are the results from the knockout stage
