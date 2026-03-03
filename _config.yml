@@ -1,22 +1,62 @@
-# Setup
-title:               DataManiac
-tagline:             'A dump/blog for my thoughts on anything data'
-description:         'Special credits for this Lanyon design goes to <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 "https://chuazy94.github.io"
-baseurl:             "/zy_blog_2"
-paginate:            5
-permalink:           pretty
+title: DataManiac
+tagline: "A dump/blog for my thoughts on anything data"
+description: "A blog by Zhi Yuan Chua covering data analytics, football analytics, and more."
+url: "https://chuazy94.github.io"
+baseurl: "/zy_blog_2"
 
-# About/contact
-author:
-  name:              Zhi Yuan Chua
-  url:               https://twitter.com/chuazyyy
-  email:             zhiyuanchua2806@gmail.com
+remote_theme: mmistakes/minimal-mistakes@4.26.2
 
-# Gems
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+paginate_path: /page:num/
+
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-remote-theme
 
-# Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+# Author
+author:
+  name: "Zhi Yuan Chua"
+  bio: "Data analyst with a passion for football analytics and drone videography."
+  location: "Singapore"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/chuazyyy"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/chuazy94"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/zhiyuanchua"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:zhiyuanchua2806@gmail.com"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+      show_date: true
+
+# Site footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/chuazyyy"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/chuazy94"

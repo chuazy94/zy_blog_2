@@ -1,6 +1,9 @@
 source "https://rubygems.org"
 
-gem "jekyll"
-gem "jekyll-gist"
+gem "jekyll", "~> 4.3"
 gem "jekyll-paginate"
 gem "jekyll-seo-tag"
+gem "jekyll-gist"
+gem "jekyll-remote-theme"
+gem "minimal-mistakes-jekyll"
+gem "webrick"

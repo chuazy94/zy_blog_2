@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Our Euro 2020 Predictions
 ---
 
