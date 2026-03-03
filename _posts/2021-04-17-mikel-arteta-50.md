@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Curious Case of Mikel Arteta
 ---
 <p align="center">

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The unofficial Euro 2020 finals preview - Italy vs England
 ---
 
