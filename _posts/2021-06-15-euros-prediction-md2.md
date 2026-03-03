@@ -1,6 +1,9 @@
 ---
 layout: single
-title: Our Euro 2020 Predictions Matchday 2
+title: "Our Euro 2020 Predictions Matchday 2"
+description: "Matchday 2 Euro 2020 predictions using weighted xG and xGA, following up on a successful first round of fixtures."
+tags: [football, analytics, euro-2020, predictions, xG, xGA, tournament, matchday-2]
+categories: football-predictions
 ---
 
 Following on from our relative successful first round of predictions (8 out of 12 outcomes correct with 3 accurate scoreline predictions), we are back with popular demand to predict the next round of fixtures! We will be adopting the same methodology as detailed in our previous [post]({{ site.baseurl }}{% link _posts/2021-06-07-euros-prediction.md %}). 

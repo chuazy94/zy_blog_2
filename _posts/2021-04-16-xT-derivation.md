@@ -1,6 +1,9 @@
 ---
 layout: single
-title: xT derivation
+title: "xT Derivation"
+description: "A walkthrough of how to derive Expected Threat (xT) values for football pitch zones using iterative solving."
+tags: [football, analytics, xT, expected-threat, data-science, mathematics]
+categories: football-analytics
 ---
 
 ## Deriving xT

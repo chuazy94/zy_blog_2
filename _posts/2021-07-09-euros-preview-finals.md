@@ -1,6 +1,9 @@
 ---
 layout: single
-title: The unofficial Euro 2020 finals preview - Italy vs England
+title: "The Unofficial Euro 2020 Finals Preview - Italy vs England"
+description: "A deep-dive preview of the Euro 2020 final between Italy and England using xT passing networks, shot distributions, and Poisson match predictions."
+tags: [football, analytics, euro-2020, italy, england, finals, xT, passing-networks, predictions]
+categories: football-predictions
 ---
 
 <p align = "center">

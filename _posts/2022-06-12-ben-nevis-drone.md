@@ -1,6 +1,9 @@
 ---
 layout: single
-title: A Jubilee escape from London 
+title: "A Jubilee Escape from London"
+description: "Drone footage and video montage of a Ben Nevis summit during the Queen's Jubilee weekend 2022, captured with a DJI Mini SE."
+tags: [drone, travel, ben-nevis, scotland, jubilee, dji, videography]
+categories: travel
 ---
 
 Its been nearly one year and I am making a return. This time not so much about football analytics...

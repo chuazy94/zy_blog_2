@@ -1,6 +1,9 @@
 ---
 layout: single
-title: Our Euro 2020 Predictions Matchday 3
+title: "Our Euro 2020 Predictions Matchday 3"
+description: "Matchday 3 Euro 2020 predictions combining Poisson distribution modelling with weighted xG for a probability-based approach to forecasting match outcomes."
+tags: [football, analytics, euro-2020, predictions, xG, poisson, tournament, matchday-3]
+categories: football-predictions
 ---
 
 <p align = "center">
