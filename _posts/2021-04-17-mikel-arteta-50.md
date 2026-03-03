@@ -1,6 +1,9 @@
 ---
 layout: single
-title: The Curious Case of Mikel Arteta
+title: "The Curious Case of Mikel Arteta"
+description: "Using xT-weighted passing networks to analyse Mikel Arteta's first 50 games in charge of Arsenal and evaluate team performance."
+tags: [football, analytics, arsenal, arteta, passing-networks, xT, xG, data-science]
+categories: football-analytics
 ---
 <p align="center">
   <img width="720" height="500" src="{{ site.baseurl }}/images/arteta_hmm.jpg">

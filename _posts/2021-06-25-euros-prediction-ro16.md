@@ -1,6 +1,9 @@
 ---
 layout: single
-title: Our Euro 2020 Predictions Round of 16
+title: "Our Euro 2020 Predictions Round of 16"
+description: "Euro 2020 Round of 16 predictions using Poisson score matrices and weighted xG to forecast all eight knockout stage fixtures."
+tags: [football, analytics, euro-2020, predictions, xG, poisson, knockout, round-of-16]
+categories: football-predictions
 ---
 
 <p align = "center">

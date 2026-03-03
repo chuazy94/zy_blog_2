@@ -1,6 +1,9 @@
 ---
 layout: single
-title: Our Euro 2020 Predictions- The quarter finals
+title: "Our Euro 2020 Predictions - The Quarter Finals"
+description: "Euro 2020 quarter-final predictions with Poisson score matrices for Spain vs Switzerland, Belgium vs Italy, Czech Republic vs Denmark, and Ukraine vs England."
+tags: [football, analytics, euro-2020, predictions, xG, poisson, knockout, quarter-finals]
+categories: football-predictions
 ---
 
 The Round of 16 provided the entertainment everyone wanted, with plenty of shocks, valiant comebacks and spectacular goals. We are now nearing the endgame here. The remaining 8 teams will battle it out in the quarters, with every single player knowing that they are just 3 games away from getting their hands on the most coveted trophy in European football. Lets see what the data tells us...

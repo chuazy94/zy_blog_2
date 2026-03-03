@@ -1,6 +1,9 @@
 ---
 layout: single
-title: First ever post
+title: "First ever post"
+description: "Welcome to DataManiac - a blog exploring ideas in football analytics, data science, and more."
+tags: [football, analytics, introduction, data-science]
+categories: general
 ---
 
 ### Welcome!

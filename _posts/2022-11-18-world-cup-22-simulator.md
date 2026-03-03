@@ -1,6 +1,9 @@
 ---
 layout: single
-title: Tis the season to find out who will be jolly
+title: "Tis the Season to Find Out Who Will Be Jolly"
+description: "Simulating the 2022 FIFA World Cup using Generalised Estimating Equations, Elo ratings, and Monte Carlo simulation to predict the tournament winner."
+tags: [football, analytics, world-cup-2022, predictions, GEE, elo-ratings, monte-carlo, simulation, xG]
+categories: football-predictions
 ---
 
 <p align="center">

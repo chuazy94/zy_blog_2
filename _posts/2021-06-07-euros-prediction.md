@@ -1,6 +1,9 @@
 ---
 layout: single
-title: Our Euro 2020 Predictions
+title: "Our Euro 2020 Predictions"
+description: "Data-driven Euro 2020 group stage matchday 1 predictions using weighted xG and xGA metrics across all 12 opening fixtures."
+tags: [football, analytics, euro-2020, predictions, xG, xGA, tournament]
+categories: football-predictions
 ---
 
 <p align="center">
