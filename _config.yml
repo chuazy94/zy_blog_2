@@ -25,11 +25,8 @@ plugins:
 author:
   name: "Zhi Yuan Chua"
   bio: "Data analyst with a passion for football analytics and drone videography."
-  location: "Singapore"
+  location: "London, UK"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/chuazyyy"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chuazy94"
