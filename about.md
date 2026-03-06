@@ -35,11 +35,6 @@ There are a few channels you can reach out to me on:
           </a>
         </div>
         <div class="column">
-            <a href="https://twitter.com/chuazyyy/">
-              <img alt="Twitter" src="{{ site.baseurl }}/public/1491579542-yumminkysocialmedia22_83078.png" width="100" height="100">
-            </a>
-        </div>
-        <div class="column">
              <a href="mailto:{{ site.author.email }}">
               <img alt="Gmail" src="{{ site.baseurl }}/public/gmail_14189.png" width="100" height="100">
             </a>
