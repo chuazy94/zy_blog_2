@@ -23,22 +23,16 @@ I love football (as you would have probably realised by now) and Arsenal is my t
 
 There are a few channels you can reach out to me on:
 
-<div class="row">
-        <div class="column">
-          <a href="https://www.linkedin.com/in/zhiyuanchua/">
-            <img alt="Linkedin" src="{{ site.baseurl }}/public/linkedin_icon-icons.com_65929.png" width="100" height="100">
-          </a>
-        </div>
-        <div class="column">
-          <a href="https://github.com/chuazy94/">
-            <img alt="Github" src="{{ site.baseurl }}/public/github-logo_icon-icons.com_73546.png" width="100" height="100">
-          </a>
-        </div>
-        <div class="column">
-             <a href="mailto:{{ site.author.email }}">
-              <img alt="Gmail" src="{{ site.baseurl }}/public/gmail_14189.png" width="100" height="100">
-            </a>
-        </div>
+<div style="display: flex; justify-content: center; gap: 40px; margin-bottom: 24px;">
+  <a href="https://www.linkedin.com/in/zhiyuanchua/">
+    <img alt="Linkedin" src="{{ site.baseurl }}/public/linkedin_icon-icons.com_65929.png" width="80" height="80">
+  </a>
+  <a href="https://github.com/chuazy94/">
+    <img alt="Github" src="{{ site.baseurl }}/public/github-logo_icon-icons.com_73546.png" width="80" height="80">
+  </a>
+  <a href="mailto:{{ site.author.email }}">
+    <img alt="Gmail" src="{{ site.baseurl }}/public/gmail_14189.png" width="80" height="80">
+  </a>
 </div>
 
 ## Buy me a beer!
