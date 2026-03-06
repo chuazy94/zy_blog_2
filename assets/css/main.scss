@@ -1,0 +1,60 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* ==========================================================================
+   Custom Typography Overrides
+   ========================================================================== */
+
+/*
+ * Reduce the base font size from the theme default (16px) to 15px.
+ * Minimal Mistakes uses a responsive type scale via breakpoints on <html>.
+ * We override each breakpoint step to shave ~1px off the computed size.
+ */
+html {
+  font-size: 14px; // was 16px at base
+
+  @include breakpoint($medium) {
+    font-size: 15px; // was 18px
+  }
+
+  @include breakpoint($large) {
+    font-size: 16px; // was 20px
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 16px; // cap at 16px instead of 22px
+  }
+}
+
+/*
+ * Heading hierarchy -- make the size steps between levels more pronounced.
+ * The Minimal Mistakes defaults cluster h1-h3 too close together.
+ */
+h1 {
+  font-size: 2em !important;    // ~32px at 16px base
+}
+
+h2 {
+  font-size: 1.5em !important;  // ~24px -- clear step down from h1
+}
+
+h3 {
+  font-size: 1.17em !important; // ~18.7px -- distinct from h2
+}
+
+h4 {
+  font-size: 1em !important;    // ~16px -- matches body text weight
+}
+
+/*
+ * Tighten heading margins slightly so they feel cohesive with
+ * the reduced font size, without losing whitespace rhythm.
+ */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}

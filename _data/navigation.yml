@@ -1,0 +1,6 @@
+# Masthead navigation links
+main:
+  - title: "Home"
+    url: /zy_blog_2/
+  - title: "About"
+    url: /zy_blog_2/about/
