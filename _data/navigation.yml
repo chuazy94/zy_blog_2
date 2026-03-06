@@ -1,6 +1,7 @@
 # Masthead navigation links
+# Do NOT include baseurl here — Minimal Mistakes applies relative_url automatically
 main:
   - title: "Home"
-    url: /zy_blog_2/
+    url: /
   - title: "About"
-    url: /zy_blog_2/about/
+    url: /about/
