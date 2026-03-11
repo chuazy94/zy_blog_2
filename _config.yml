@@ -4,7 +4,8 @@ description: "A blog by Zhi Yuan Chua covering data analytics, football analytic
 url: "https://chuazy94.github.io"
 baseurl: "/zy_blog_2"
 
-remote_theme: mmistakes/minimal-mistakes@4.26.2
+# Use the theme gem (must match the Gemfile gem name: minimal-mistakes-jekyll)
+theme: minimal-mistakes-jekyll
 
 # Build settings
 markdown: kramdown
