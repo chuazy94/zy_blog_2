@@ -1,6 +1,6 @@
 # DataManiac
 
-A personal blog by Zhi Yuan Chua covering football analytics, data science, and the occasional drone video.
+A personal blog by Zhi Yuan Chua covering football analytics, data science, and data engineering.
 
 **Live site:** https://chuazy94.github.io/zy_blog_2
 
@@ -12,8 +12,7 @@ DataManiac was started during the COVID-19 pandemic out of a mix of boredom and 
 
 - Football analytics (xG models, tournament simulators, match predictions)
 - Data science methods (Poisson modelling, GEE, Elo ratings)
-- Drone videography
-
+- Kafka and Pyspark
 ---
 
 ## Tech Stack
@@ -36,12 +35,14 @@ DataManiac was started during the COVID-19 pandemic out of a mix of boredom and 
 # Install dependencies
 bundle install
 
-# Serve locally with live reload
-bundle exec jekyll serve
+# Serve locally with live reload (use empty baseurl so videos/assets load correctly)
+bundle exec jekyll serve --baseurl ''
 
 # Visit the site
-open http://localhost:4000/zy_blog_2
+open http://localhost:4000
 ```
+
+Using `--baseurl ''` overrides the config’s `baseurl: "/zy_blog_2"` so that asset and video URLs point to the root path where the dev server actually serves files. Without it, video and image links would request `/zy_blog_2/videos/...` and get 404 locally. On GitHub Pages the real baseurl is used and links work as expected.
 
 Changes to `_posts/`, `_config.yml`, and layout files are picked up automatically. A full restart is required after editing `_config.yml`.
 
