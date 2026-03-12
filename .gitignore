@@ -48,3 +48,9 @@ bower_components
 vendor/
 .bundle/
 Gemfile.lock
+
+# claude
+.claude/
+
+# Excalidraw files
+*.excalidraw
