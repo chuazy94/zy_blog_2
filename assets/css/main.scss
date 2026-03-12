@@ -3,7 +3,7 @@
 ---
 
 /* Widen main content area (theme default is 1280px) */
-$max-width: 1400px;
+$max-width: 1600px;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";

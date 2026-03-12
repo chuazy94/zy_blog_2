@@ -179,7 +179,7 @@ This keeps the table around ~100MB, leaving headroom for the stations, adjacency
 Despite the best efforts of the workarounds to deal with animating train movements and their relative positions, there are still cases of teleporting trains and missing trains re-appearing. The latter is caused by a mix of poor data quality and inability to identify the train's position as the station or geographical location cannot be located against a station in the stations table.
 
 <p align="center">
-  <video width="800" height="450" controls>
+  <video style="max-width:100%" controls>
     <source src="{{ site.baseurl }}/videos/teleporting-trains-tfl-h264.mp4" type="video/mp4">
   </video>
   <br>
