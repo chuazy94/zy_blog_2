@@ -15,7 +15,7 @@ This blog was birthed in the Coronavirus pandemic with a mixture of boredom and 
   <img width="225" height="400" src="{{ site.baseurl }}/images/profile_pic.jpg">
 </p>
 
-Currently based in London. Originally from Singapore but moved across to pursue a degree in Chemical Engineering and ended up in a career in data. I have donned multiple hats across the data ecosystem - from an analyst to a data and analytics engineer. Presently, I am a Data Engineer working in a scale up, with a focus in driving analytics within the organisations. I do also have consulting experienve working with multiple client engagements across Public Sector and large Consumer Product space. These roles involved Data engineering, science and visualisations.
+Currently based in London. Originally from Singapore but moved across to pursue a degree in Chemical Engineering and ended up in a career in data. I have donned multiple hats across the data ecosystem - from an analyst to a data and analytics engineer. Presently, I am a Data Engineer working in a scale up, with a focus in driving analytics within the organisations. I do also have consulting experience working with multiple client engagements across Public Sector and large Consumer Product space. These roles involved Data engineering, science and visualisations.
 
 I love football (as you would have probably realised by now) and Arsenal is my team. Recently, I got into the football analytics space to integrate the 2 things I thoroughly enjoy doing. I am really keen to learn new ideas on how we can use Data to better understand the beautiful game! Please feel free to reach out to me if you have any ideas or want to collaborate!
 
